@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\samty\dropbox\visual studio projects\herb sutter gotw 6\source.cpp(54): warning C4227: anachronism used: qualifiers on reference are ignored
+  Herb Sutter GotW 6.vcxproj -> C:\Users\samty\Dropbox\Visual Studio Projects\Herb Sutter GotW 6\Debug\Herb Sutter GotW 6.exe
+  Herb Sutter GotW 6.vcxproj -> C:\Users\samty\Dropbox\Visual Studio Projects\Herb Sutter GotW 6\Debug\Herb Sutter GotW 6.pdb (Partial PDB)
