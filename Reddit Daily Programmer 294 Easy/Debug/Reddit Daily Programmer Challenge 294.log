@@ -1,0 +1,5 @@
+﻿  over_complicated.cpp
+c:\users\samty\dropbox\visual studio projects\reddit daily programmer challenge 294\over_complicated.cpp(45): warning C4227: anachronism used: qualifiers on reference are ignored
+c:\users\samty\dropbox\visual studio projects\reddit daily programmer challenge 294\over_complicated.cpp(71): warning C4227: anachronism used: qualifiers on reference are ignored
+  Reddit Daily Programmer Challenge 294.vcxproj -> C:\Users\samty\Dropbox\Visual Studio Projects\Reddit Daily Programmer Challenge 294\Debug\Reddit Daily Programmer Challenge 294.exe
+  Reddit Daily Programmer Challenge 294.vcxproj -> C:\Users\samty\Dropbox\Visual Studio Projects\Reddit Daily Programmer Challenge 294\Debug\Reddit Daily Programmer Challenge 294.pdb (Partial PDB)

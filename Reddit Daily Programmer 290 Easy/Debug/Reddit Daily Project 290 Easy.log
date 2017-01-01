@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\samty\dropbox\visual studio projects\reddit daily project 290 easy\source.cpp(6): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\samty\dropbox\visual studio projects\reddit daily project 290 easy\source.cpp(6): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\samty\dropbox\visual studio projects\reddit daily project 290 easy\source.cpp(10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Reddit Daily Project 290 Easy.vcxproj -> C:\Users\samty\Dropbox\Visual Studio Projects\Reddit Daily Project 290 Easy\Debug\Reddit Daily Project 290 Easy.exe
+  Reddit Daily Project 290 Easy.vcxproj -> C:\Users\samty\Dropbox\Visual Studio Projects\Reddit Daily Project 290 Easy\Debug\Reddit Daily Project 290 Easy.pdb (Partial PDB)
